@@ -154,3 +154,7 @@
 [submodule "xDscResources/xSharePoint"]
 	path = xDscResources/xSharePoint
 	url = https://github.com/powershell/xSharePoint
+[submodule "xPhp"]
+	path = xPhp
+	url = https://github.com/KarolKaczmarek/xPhp
+	branch = dev
